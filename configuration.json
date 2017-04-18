@@ -3,33 +3,36 @@
         "name":"Art",
         "images":[
             {
-                "url":"url1",
-                "name":"name",
+                "url":"https://farm9.staticflickr.com/8867/27808394474_d95c4aa4b9_c.jpg",
+                "name":"Vu to",
                 "created":"now"
             },
 
             {
-                "url":"url1",
-                "name":"name",
+                "url":"https://www.androidcentral.com/sites/androidcentral.com/files/styles/w550h500/public/wallpapers/sexy-peru-girl-wallpaper-eqb.jpg?itok=c0aTGu2Q",
+                "name":"tatto",
                 "created":"now"
             },
             {
-                "url":"url1",
+                "url":"http://2.bp.blogspot.com/-yHCHBU7zdOs/VYvNmE7Yt7I/AAAAAAAATkA/18rgvlXOiMs/s1600/tuigirl-017-zirui-004.jpg",
                 "name":"name",
                 "created":"now"
             }
         ]
     },
-    {
-        "name":"Nude",
-        "images":[
-            
-        ]
-    },
+
     {
         "name":"Bikini",
         "images":[
-            
-        ]
+            {
+                "url":"https://previews.123rf.com/images/slava77777/slava777771602/slava77777160200010/52037174-fashion-interior-photo-of-beautiful-sexy-girl-with-dark-hair-wears-elegant-lace-lingerie-holding-red-Stock-Photo.jpg",
+                "name":"fuck"
+            },
+            {
+                "url":"http://2.bp.blogspot.com/-yHCHBU7zdOs/VYvNmE7Yt7I/AAAAAAAATkA/18rgvlXOiMs/s1600/tuigirl-017-zirui-004.jpg",
+                "name":"name",
+                "created":"now"
+            }
+            ]
     }
 ]
