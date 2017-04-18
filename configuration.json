@@ -1,0 +1,35 @@
+[
+    {
+        "name":"Art",
+        "images":[
+            {
+                "url":"url1",
+                "name":"name",
+                "created":"now"
+            },
+
+            {
+                "url":"url1",
+                "name":"name",
+                "created":"now"
+            },
+            {
+                "url":"url1",
+                "name":"name",
+                "created":"now"
+            }
+        ]
+    },
+    {
+        "name":"Nude",
+        "images":[
+            
+        ]
+    },
+    {
+        "name":"Bikini",
+        "images":[
+            
+        ]
+    }
+]
